@@ -1,0 +1,15 @@
+ORL_Facedatabase/s1/10.pgm;0
+ORL_Facedatabase/s10/2.pgm;1
+ORL_Facedatabase/s11/5.pgm;2
+ORL_Facedatabase/s12/1.pgm;3
+ORL_Facedatabase/s13/7.pgm;4
+ORL_Facedatabase/s14/3.pgm;5
+ORL_Facedatabase/s2/9.pgm;6
+ORL_Facedatabase/s3/8.pgm;7
+ORL_Facedatabase/s4/4.pgm;8
+ORL_Facedatabase/s41/6.pgm;9
+ORL_Facedatabase/s5/6.pgm;10
+ORL_Facedatabase/s6/2.pgm;11
+ORL_Facedatabase/s7/7.pgm;12
+ORL_Facedatabase/s8/5.pgm;13
+ORL_Facedatabase/s9/9.pgm;14
